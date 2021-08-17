@@ -26,18 +26,14 @@ Heroku URL:
 
 # Screenshots
 
-### Here's a screenshot of the finished homepage.
+### Here's a screenshot of the finished home page page.
 
-![Here's a screenshot of the finished homepage.](./public/images/homepage_screenshot.png)
+![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot1.png)
 
-### Here's a screenshot of the login page.
+### Here's a screenshot of the finished new workout page.
 
-![Here's a screenshot of the answer alerts.](./public/images/login_screenshot.png)
-
-### Here's a screenshot of the finished new post page.
-
-![Here's a screenshot of the answer alerts.](./public/images/new_post_screenshot.png)
+![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot2.png)
 
 ### Here's a screenshot of the finished dashboard page.
 
-![Here's a screenshot of the answer alerts.](./public/images/dashboard_screenshot.png)
+![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot3.png)
