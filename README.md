@@ -22,7 +22,7 @@ The application will allow the user to track the name, type, weight, sets, reps,
 
 Github URL: https://github.com/trevorwiegand92/FitnessTracker
 
-Heroku URL: https://sleepy-lake-28300.herokuapp.com/
+Heroku URL: https://fast-oasis-09530.herokuapp.com/
 
 # Screenshots
 
