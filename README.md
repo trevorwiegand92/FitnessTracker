@@ -22,7 +22,7 @@ The application will allow the user to track the name, type, weight, sets, reps,
 
 Github URL: https://github.com/trevorwiegand92/FitnessTracker
 
-Heroku URL: https://git.heroku.com/infinite-mesa-44173.git
+Heroku URL: https://infinite-mesa-44173.herokuapp.com/
 
 # Screenshots
 
