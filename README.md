@@ -1,39 +1,42 @@
-# FitnessTracker
+## Fitness Tracker
 
-# Description
+![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-For our week 18 assignment, we had to create an application that could track workouts and fitness goals for a user.
+## Description
 
-Name: Fitness Tracker
+This fitness tracker will allow you to keep track of your cardio and weight lifting workouts by storing all your information into a Mongo Database using a Mongoose schema and Express for route handling.
 
-We were provided the front-end code for the application and our objective was to create Mongo database with a Mongoose schema and handle routes with Express.
+## Table of Contents
 
-The application will allow the user to track the name, type, weight, sets, reps, and duration of exercises; and for cardio workouts, track the distance traveled.
+- [Usage](#Usage)
+- [License](#License)
+- [Questions](#Questions)
+- [Acknowledgements](#Acknowledgements)
+- [Screenshots](#Screenshots)
 
-# Technologies Used
+## Usage
 
-- HTML/CSS/Javascript
-- Node.js
-- Express.js
-- MongoDB
-- Heroku
+Follow these steps to use the Fitness Tracker:
 
-# Links
+1. Follow this link to the deployed application: [Fitness Tracker](https://valerie-fitness-tracker.herokuapp.com/?id=611337e4a82bac0e563dd286).
+2. From the homepage select "New Workout" or "Continue Workout" and follow the prompts.
+3. When you are done click `Complete` and your information will be tallied and displayed on the dashboard.
+4. To view your workout totals click on "Dashboard" in the navigation bar.
 
-Github URL: https://github.com/trevorwiegand92/FitnessTracker
+## License
 
-Heroku URL: https://infinite-mesa-44173.herokuapp.com/
+MIT
 
-# Screenshots
+## Questions
 
-### Here's a screenshot of the finished home page page.
+For additional information please contact me via GitHub at [https://github.com/vmichalecki](https://github.com/vmichalecki) or via email at [valerie2273@gmail.com](mailto:valerie227@gmail.com?subject=[GitHub]%Fitness%Tracker).
 
-![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot1.png)
+## Acknowledgements
 
-### Here's a screenshot of the finished new workout page.
+Miguel Alicea: [https://github.com/malicea0783](https://github.com/malicea0783)
 
-![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot2.png)
+## Screenshots
 
-### Here's a screenshot of the finished dashboard page.
-
-![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot3.png)
+![Fitness Tracker](./public/images/fitness-tracker-screenshot.png)
+![Fitness Tracker](./public/images/fitness-tracker-screenshot-2.png)
+![Fitness Tracker](./public/images/fitness-tracker-screenshot-3.png)
