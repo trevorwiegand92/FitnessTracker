@@ -40,4 +40,4 @@ Heroku URL: https://fast-oasis-09530.herokuapp.com/
 
 # Support
 
-I would just like to make a shout out to Jamescoon035, one our Learning assistants through the Slack app. Without his help and guidance on how to resolve an error I would have either spent another 12 hours straight looking for the issue or possibly just giving up. He/She is the real hero of this finished application.
+I would just like to make a shout out to Jamescoon035, one our Learning assistants through the Slack app. Without his help and guidance on how to resolve an error I would have either spent another 12 hours straight looking for the issue or possibly just giving up. He is the real hero of this finished application.
